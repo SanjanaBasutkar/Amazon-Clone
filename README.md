@@ -1,4 +1,7 @@
 **Amazon Clone - HTML & CSS Project**
+
+
+
 Project Overview:
 This project is a simplified clone of the Amazon homepage, designed using HTML and CSS. The clone replicates some of the core components of the Amazon website, such as the header, search bar, product categories, and a footer.
 
